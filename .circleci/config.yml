@@ -1,6 +1,6 @@
 version: 2.1
 jobs:
-  build:
+  builddocker:
     docker:
       - image: "circleci/node:10.16.0"
     steps:
@@ -39,4 +39,4 @@ jobs:
 workflows:
   build_and_test:
     jobs:
-      - build
+      - builddocker
