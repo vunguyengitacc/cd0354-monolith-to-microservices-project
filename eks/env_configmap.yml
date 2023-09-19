@@ -4,9 +4,11 @@ data:
   AWS_BUCKET: uda-cloud-dev-proj3-vunha
   AWS_PROFILE: default
   AWS_REGION: us-east-1
-  JWT_SECRET: test
-  POSTGRESS_DB: postgres
-  POSTGRESS_HOST: database-postgres-uda-proj3-vunha.chmha0ojqp7o.us-east-1.rds.amazonaws.com
+  JWT_SECRET: test2
+  POSTGRES_DB: postgres
+  POSTGRES_HOST: database-postgres-uda-proj3-vunha.chmha0ojqp7o.us-east-1.rds.amazonaws.com
   URL: http://localhost:8100  
+  POSTGRES_USERNAME: postgres
+  POSTGRES_PASSWORD: admin123
 metadata:
   name: env-config
