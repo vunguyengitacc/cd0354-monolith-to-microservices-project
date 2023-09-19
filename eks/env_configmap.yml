@@ -8,7 +8,5 @@ data:
   POSTGRES_DB: postgres
   POSTGRES_HOST: database-postgres-uda-proj3-vunha.chmha0ojqp7o.us-east-1.rds.amazonaws.com
   URL: http://localhost:8100  
-  POSTGRES_USERNAME: postgres
-  POSTGRES_PASSWORD: admin123
 metadata:
   name: env-config
