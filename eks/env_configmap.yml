@@ -6,7 +6,7 @@ data:
   AWS_REGION: us-east-1
   JWT_SECRET: test2
   POSTGRES_DB: postgres
-  POSTGRES_HOST: database-postgres-uda-proj3-vunha.chmha0ojqp7o.us-east-1.rds.amazonaws.com
+  POSTGRES_HOST: postgres.chmha0ojqp7o.us-east-1.rds.amazonaws.com
   URL: http://localhost:8100  
 metadata:
   name: env-config
