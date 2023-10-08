@@ -1,0 +1,8 @@
+Sorry for that but for now I cannot complete the step deployment at Travis
+
+Because Travis requires International Credit Card to use their pipeline even in FREE PLAN, but for now I dont have any Credit Card.
+I have also tried with CircleCI, but after some failure because my exploration, CircleCI put me into block, I have raised a ticket at their supporter page but seem like it takes time for waiting their response
+
+After reading docs and watching some guidelines, I understand how these platform works, knowing how to write a deployment yaml file and believing that I can apply this to my project in the future so hope that you can accept me to skip this step.
+
+Thank you

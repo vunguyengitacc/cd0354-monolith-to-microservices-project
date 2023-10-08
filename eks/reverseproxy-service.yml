@@ -3,6 +3,7 @@ kind: Service
 metadata:
   name: reverseproxy
   labels:
+    service.beta.kubernetes.io/aws-load-balancer-internal: "true"
     app: reverseproxy
 spec:
   ports:

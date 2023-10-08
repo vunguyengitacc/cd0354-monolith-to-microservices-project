@@ -3,6 +3,7 @@ kind: Service
 metadata:
   name: frontend
   labels:
+    service.beta.kubernetes.io/aws-load-balancer-internal: "true"
     app: frontend
 spec:
   ports:
